@@ -1,2 +1,2 @@
-# ps270-problem-set0
+# Introduction
 Problem set 0 for PS 270
